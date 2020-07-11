@@ -1,0 +1,20 @@
+lastAccountName: meneerkiwi
+timestamps:
+  login: 1594327372998
+  logout: 1594208859765
+ipAddress: 127.0.0.1
+afk: false
+logoutlocation:
+  world: TerraPreGenerated
+  x: -10.325661277955739
+  y: 11.243392501017823
+  z: 11.56023745729805
+  yaw: -169.23901
+  pitch: 67.80049
+lastlocation:
+  world: TerraPreGenerated
+  x: 0.310633564425306
+  y: 1.0
+  z: 0.4313347618658025
+  yaw: -49.58133
+  pitch: 90.0
