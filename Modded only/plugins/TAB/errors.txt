@@ -1,0 +1,46 @@
+27.06.2020 - 20:48:06 - [TAB v2.7.7] An error occurred when refreshing tablist objective
+27.06.2020 - 20:48:06 - java.lang.NullPointerException: null
+27.06.2020 - 20:48:06 -        at me.neznamy.tab.shared.features.TabObjective$1.run(TabObjective.java:37)
+27.06.2020 - 20:48:06 -        at me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:91)
+27.06.2020 - 20:48:06 -        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+27.06.2020 - 20:48:06 -        at java.util.concurrent.FutureTask.run(Unknown Source)
+27.06.2020 - 20:48:06 -        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+27.06.2020 - 20:48:06 -        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+27.06.2020 - 20:48:06 -        at java.lang.Thread.run(Unknown Source)
+28.06.2020 - 21:51:38 - [TAB v2.7.7] An error occurred when refreshing tablist objective
+28.06.2020 - 21:51:38 - java.lang.NullPointerException: null
+28.06.2020 - 21:51:38 -        at me.neznamy.tab.shared.features.TabObjective$1.run(TabObjective.java:37)
+28.06.2020 - 21:51:38 -        at me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:91)
+28.06.2020 - 21:51:38 -        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+28.06.2020 - 21:51:38 -        at java.util.concurrent.FutureTask.run(Unknown Source)
+28.06.2020 - 21:51:38 -        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+28.06.2020 - 21:51:38 -        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+28.06.2020 - 21:51:38 -        at java.lang.Thread.run(Unknown Source)
+28.06.2020 - 21:57:41 - [TAB v2.7.7] An error occurred when refreshing tablist objective
+28.06.2020 - 21:57:41 - java.lang.NullPointerException: null
+28.06.2020 - 21:57:41 -        at me.neznamy.tab.shared.features.TabObjective$1.run(TabObjective.java:37)
+28.06.2020 - 21:57:41 -        at me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:91)
+28.06.2020 - 21:57:41 -        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+28.06.2020 - 21:57:41 -        at java.util.concurrent.FutureTask.run(Unknown Source)
+28.06.2020 - 21:57:41 -        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+28.06.2020 - 21:57:41 -        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+28.06.2020 - 21:57:41 -        at java.lang.Thread.run(Unknown Source)
+28.06.2020 - 22:56:49 - [TAB v2.7.7] An error occurred when refreshing tablist objective
+28.06.2020 - 22:56:49 - java.lang.NullPointerException: null
+28.06.2020 - 22:56:49 -        at me.neznamy.tab.shared.features.TabObjective$1.run(TabObjective.java:37)
+28.06.2020 - 22:56:49 -        at me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:91)
+28.06.2020 - 22:56:49 -        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+28.06.2020 - 22:56:49 -        at java.util.concurrent.FutureTask.run(Unknown Source)
+28.06.2020 - 22:56:49 -        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+28.06.2020 - 22:56:49 -        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+28.06.2020 - 22:56:49 -        at java.lang.Thread.run(Unknown Source)
+04.07.2020 - 23:26:47 - [TAB v2.7.7] Group "test" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "test" into group-sorting-priority-list in config.yml.
+09.07.2020 - 22:42:52 - [TAB v2.7.7] An error occurred when refreshing tablist objective
+09.07.2020 - 22:42:52 - java.lang.NullPointerException: null
+09.07.2020 - 22:42:52 -        at me.neznamy.tab.shared.features.TabObjective$1.run(TabObjective.java:37)
+09.07.2020 - 22:42:52 -        at me.neznamy.tab.shared.cpu.CPUManager$4.run(CPUManager.java:91)
+09.07.2020 - 22:42:52 -        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+09.07.2020 - 22:42:52 -        at java.util.concurrent.FutureTask.run(Unknown Source)
+09.07.2020 - 22:42:52 -        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+09.07.2020 - 22:42:52 -        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+09.07.2020 - 22:42:52 -        at java.lang.Thread.run(Unknown Source)

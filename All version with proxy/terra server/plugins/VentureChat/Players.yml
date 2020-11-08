@@ -1,0 +1,19 @@
+players:
+  bdda00ca-ec1b-4dd1-aef6-fdde064fa429:
+    name: meneerkiwi
+    current: Global
+    ignores: ''
+    listen: Staff,Global
+    mutes: ''
+    blockedcommands: ''
+    host: false
+    party: ''
+    filter: true
+    notifications: true
+    nickname: meneerkiwi
+    spy: false
+    commandspy: false
+    rangedspy: false
+    messagetoggle: true
+    bungeetoggle: true
+    date: 2020/Aug/29 16:46:00
